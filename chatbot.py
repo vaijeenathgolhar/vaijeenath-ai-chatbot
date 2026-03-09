@@ -21,16 +21,18 @@ st.set_page_config(
 
 # ---------------- CUSTOM CSS ----------------
 
+# ---------------- CUSTOM CSS ----------------
+
 st.markdown("""
 <style>
 
-/* Background */
+/* Main background */
 .stApp {
-    background-color: #0f172a;
+    background: linear-gradient(180deg,#020617,#0f172a);
     color: white;
 }
 
-/* Center container */
+/* Center layout */
 .block-container {
     max-width: 900px;
     padding-top: 2rem;
@@ -39,38 +41,72 @@ st.markdown("""
 /* Header */
 .header {
     text-align:center;
-    padding:20px;
-    background:linear-gradient(90deg,#6366f1,#9333ea);
-    border-radius:12px;
-    margin-bottom:25px;
+    padding:30px;
+    background: linear-gradient(90deg,#6366f1,#9333ea,#ec4899);
+    border-radius:16px;
+    margin-bottom:30px;
+    box-shadow:0 10px 25px rgba(0,0,0,0.4);
 }
 
 .header h1 {
+    font-size:38px;
+    font-weight:700;
     color:white;
-    margin-bottom:5px;
 }
 
 .header p {
+    font-size:16px;
     color:#e0e7ff;
 }
 
 /* Chat bubbles */
 [data-testid="stChatMessage"] {
-    border-radius:10px;
-    padding:10px;
+    background-color:#1e293b;
+    border-radius:12px;
+    padding:12px;
+    margin-bottom:10px;
+    border:1px solid #334155;
+}
+
+/* User message */
+[data-testid="stChatMessage"][data-testid*="user"] {
+    background-color:#312e81;
+}
+
+/* Assistant message */
+[data-testid="stChatMessage"][data-testid*="assistant"] {
+    background-color:#1e293b;
 }
 
 /* Example cards */
 .example-card {
     background:#1e293b;
-    padding:12px;
-    border-radius:8px;
-    margin-bottom:8px;
+    padding:14px;
+    border-radius:10px;
+    margin-bottom:10px;
+    border:1px solid #334155;
+    transition:0.3s;
 }
 
-/* Input box */
+.example-card:hover {
+    transform:scale(1.03);
+    border-color:#6366f1;
+}
+
+/* Chat input */
 .stChatInputContainer {
-    background-color:#1e293b;
+    background:#020617;
+    border-radius:12px;
+    border:1px solid #334155;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+    width:8px;
+}
+
+::-webkit-scrollbar-thumb {
+    background:#6366f1;
     border-radius:10px;
 }
 
