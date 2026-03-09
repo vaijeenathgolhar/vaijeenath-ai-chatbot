@@ -81,7 +81,7 @@ st.markdown("""
 
 st.markdown("""
 <div class="header">
-<h1>🤖 Ask Vaijeenath AI</h1>
+<h1>🤖 Ask Vaijeenath's AI Assistant</h1>
 <p>Your AI assistant for exploring my projects, skills, and experience</p>
 </div>
 """, unsafe_allow_html=True)
