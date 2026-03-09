@@ -1,0 +1,110 @@
+VAIJEENATH PORTFOLIO FAQ DATASET (FOR RAG)
+Basic Questions
+
+Question: Who is Vaijeenath Golhar?
+Answer: Vaijeenath Golhar is an entry-level Generative AI Engineer with experience in machine learning, deep learning, natural language processing, and large language models. He builds AI-powered applications using Python, LangChain, and modern AI frameworks.
+
+Question: What does Vaijeenath Golhar specialize in?
+Answer: Vaijeenath specializes in Generative AI development including large language models, retrieval-augmented generation systems, AI chatbots, AI agents, prompt engineering, and AI-powered applications.
+
+Question: What is Vaijeenath Golhar's professional goal?
+Answer: Vaijeenath Golhar aims to become a professional AI engineer specializing in generative AI, large language models, AI agents, and scalable AI-powered applications.
+
+Question: What technologies does Vaijeenath Golhar use?
+Answer: Vaijeenath Golhar works with technologies including Python, LangChain, LangGraph, TensorFlow, React, Node.js, Streamlit, FAISS vector databases, and various large language model APIs.
+
+Education
+
+Question: What is Vaijeenath Golhar's educational background?
+Answer: Vaijeenath Golhar completed a Bachelor of Engineering in Computer Science from Mumbai University.
+
+Skills
+
+Question: What programming languages does Vaijeenath Golhar know?
+Answer: Vaijeenath Golhar knows Python, JavaScript, and C++.
+
+Question: What machine learning skills does Vaijeenath Golhar have?
+Answer: Vaijeenath has experience in supervised learning, unsupervised learning, feature engineering, and model evaluation.
+
+Question: What deep learning models has Vaijeenath worked with?
+Answer: Vaijeenath has worked with artificial neural networks, convolutional neural networks, recurrent neural networks, and LSTM models.
+
+Question: What NLP techniques does Vaijeenath Golhar know?
+Answer: Vaijeenath has implemented text preprocessing techniques including tokenization, stemming, lemmatization, bag of words, TF-IDF, and word embeddings.
+
+Question: What generative AI technologies does Vaijeenath use?
+Answer: Vaijeenath uses large language models, prompt engineering, retrieval augmented generation, AI agents, and conversational memory systems.
+
+Projects
+
+Question: What projects has Vaijeenath Golhar built?
+Answer: Vaijeenath Golhar has built several AI and software projects including an AI Chatbot Assistant, ATS Resume Analyzer, Smart Study Notes Generator, StudyForge AI student assistant platform, Skill Zeta skill verification system, and a Placement Preparation Portal.
+
+Question: What is the AI Chatbot Assistant project?
+Answer: The AI Chatbot Assistant is a conversational AI system built using LangChain and large language models. It supports conversation memory, prompt templates, and real-time responses through a Streamlit interface.
+
+Question: What is the ATS Resume Analyzer?
+Answer: The ATS Resume Analyzer is an AI-powered system that evaluates resumes using large language models and retrieval augmented generation to provide ATS compatibility analysis and improvement suggestions.
+
+Question: What is the Smart Study Notes Generator?
+Answer: The Smart Study Notes Generator is an AI application that generates structured summaries and quiz questions from a given topic to help students study more effectively.
+
+Question: What is StudyForge AI?
+Answer: StudyForge AI is an AI-powered productivity platform for students that integrates multiple tools including an AI chatbot, study notes generator, coding assistant, research assistant, and resume analyzer.
+
+Question: What is Skill Zeta?
+Answer: Skill Zeta is a skill verification platform that verifies user skills and certificates using decentralized validation concepts inspired by blockchain systems.
+
+Question: What is the Placement Preparation Portal?
+Answer: The Placement Preparation Portal is a web application that helps students track company placements, view schedules, and prepare for interviews.
+
+Generative AI Experience
+
+Question: Does Vaijeenath Golhar work with RAG systems?
+Answer: Yes, Vaijeenath has built multiple retrieval augmented generation systems that retrieve information from documents and use large language models to generate contextual answers.
+
+Question: What frameworks does Vaijeenath use for generative AI?
+Answer: Vaijeenath uses frameworks such as LangChain and LangGraph for building LLM-based applications.
+
+Question: What LLM providers has Vaijeenath used?
+Answer: Vaijeenath has integrated LLM providers including Groq, Google LLM APIs, HuggingFace models, DeepSeek, and OpenRouter.
+
+Deep Learning Projects
+
+Question: What deep learning projects has Vaijeenath completed?
+Answer: Vaijeenath has implemented several deep learning projects including churn prediction using artificial neural networks, named entity recognition using bidirectional RNNs, spam detection using GRU models, next word prediction using LSTM models, and sentiment analysis using RNNs.
+
+NLP Projects
+
+Question: What NLP projects has Vaijeenath implemented?
+Answer: Vaijeenath has implemented NLP projects including bag of words models, text cleaning pipelines, tokenization systems, stemming and lemmatization pipelines, and Word2Vec embedding models.
+
+AI Tools
+
+Question: What tools does Vaijeenath use for AI development?
+Answer: Vaijeenath uses tools such as Streamlit for building AI interfaces, Git and GitHub for version control, and vector databases such as FAISS for semantic search.
+
+Portfolio
+
+Question: Does Vaijeenath Golhar have a portfolio website?
+Answer: Yes, Vaijeenath Golhar has built a personal portfolio website that showcases his projects, skills, certificates, and resume.
+
+Question: What projects are shown on Vaijeenath's portfolio?
+Answer: The portfolio includes AI Chatbot Assistant, ATS Resume Analyzer, Smart Study Notes Generator, StudyForge AI, Placement Preparation Portal, and Skill Zeta skill verification platform.
+
+Career
+
+Question: What career path is Vaijeenath Golhar pursuing?
+Answer: Vaijeenath Golhar is pursuing a career as a Generative AI engineer specializing in large language models, AI agents, and retrieval augmented generation systems.
+
+GitHub
+
+Question: What is Vaijeenath Golhar's GitHub repository?
+Answer: Vaijeenath Golhar maintains a repository called Gen AI Journey which contains experiments in deep learning, NLP, LangChain applications, LangGraph workflows, RAG systems, and AI agents.
+
+Architecture Experience
+
+Question: What AI architectures has Vaijeenath built?
+Answer: Vaijeenath has built retrieval augmented generation pipelines, LLM chains for question answering, multi-agent AI workflows, prompt engineering pipelines, and conversational AI systems with memory.
+
+END FAQ DATASET

@@ -1,0 +1,433 @@
+VAIJEENATH GOLHAR – PORTFOLIO KNOWLEDGE BASE
+Personal Information
+
+Vaijeenath Golhar is an entry-level Generative AI Engineer from India with strong skills in Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, and Large Language Models. He builds intelligent applications using modern AI frameworks and integrates them into real-world software systems.
+
+Name: Vaijeenath Golhar
+Email: vaijeenathgolhar@gmail.com
+
+LinkedIn: Vaijeenath Golhar
+GitHub: vaijeenathgolhar
+
+Professional Title: Generative AI Engineer
+
+Professional Summary
+
+Vaijeenath Golhar is a Generative AI developer with hands-on experience building AI-powered applications using Python and modern AI frameworks such as LangChain and LangGraph. He specializes in developing intelligent systems that use Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), prompt engineering, conversational memory, and AI agents.
+
+He has built multiple AI applications including AI chatbots, resume analyzers, student learning assistants, and research automation tools. His projects demonstrate strong understanding of LLM pipelines, vector databases, document retrieval systems, and AI workflow orchestration.
+
+In addition to AI development, Vaijeenath also has experience in full-stack web development using technologies such as React, Node.js, and Express. This allows him to deploy AI models into real applications with interactive user interfaces.
+
+His goal is to build scalable AI systems and become a professional AI engineer specializing in Generative AI technologies.
+
+Education
+
+Vaijeenath Golhar completed his Bachelor of Engineering (B.E.) in Computer Science from Mumbai University.
+
+During his engineering studies, he developed strong foundations in computer science, machine learning, deep learning, and natural language processing.
+
+Technical Skills
+Programming Languages
+
+Vaijeenath Golhar has strong programming experience in multiple languages used for software and AI development.
+
+Python is his primary language for building machine learning models, AI pipelines, and automation systems.
+
+JavaScript is used for frontend and backend web development.
+
+C++ is used for understanding core programming and performance-oriented systems.
+
+Programming Languages:
+
+Python
+JavaScript
+C++
+
+Machine Learning Skills
+
+Vaijeenath has experience building and evaluating machine learning models using modern ML libraries.
+
+He understands both supervised and unsupervised learning techniques and has worked with datasets for prediction and classification tasks.
+
+Machine Learning Skills:
+
+Supervised learning algorithms
+Unsupervised learning techniques
+Feature engineering
+Model evaluation and validation
+
+Libraries used for machine learning:
+
+NumPy
+Pandas
+Scikit-learn
+Matplotlib
+Seaborn
+
+These libraries are used for data analysis, preprocessing, visualization, and machine learning model development.
+
+Deep Learning Skills
+
+Vaijeenath has experience implementing deep learning models using TensorFlow and Keras.
+
+He has built several neural network architectures including Artificial Neural Networks and recurrent models for sequence prediction tasks.
+
+Deep Learning Architectures:
+
+Artificial Neural Networks (ANN)
+Convolutional Neural Networks (CNN)
+Recurrent Neural Networks (RNN)
+Long Short-Term Memory networks (LSTM)
+
+Deep Learning Frameworks:
+
+TensorFlow
+Keras
+
+These frameworks are used to train neural networks and deploy deep learning models.
+
+Natural Language Processing Skills
+
+Vaijeenath has strong experience in Natural Language Processing (NLP) techniques used to process and analyze textual data.
+
+He has implemented several text processing pipelines including tokenization, stemming, and word embeddings.
+
+NLP Techniques:
+
+Text cleaning and preprocessing
+Tokenization
+Stemming
+Lemmatization
+Bag of Words
+TF-IDF vectorization
+Word embeddings
+Word2Vec models
+
+These techniques are used in machine learning and generative AI systems to convert text into numerical representations.
+
+Generative AI Skills
+
+Vaijeenath specializes in Generative AI systems powered by Large Language Models.
+
+He builds AI pipelines using LangChain and LangGraph and integrates vector databases to implement Retrieval-Augmented Generation.
+
+Generative AI Skills:
+
+Large Language Models (LLMs)
+Prompt Engineering
+Retrieval-Augmented Generation (RAG)
+AI Agents
+Agentic Workflows
+Conversational AI with memory
+
+Frameworks used:
+
+LangChain
+LangGraph
+
+These frameworks allow developers to build advanced LLM applications and multi-step AI workflows.
+
+Web Development Skills
+
+Vaijeenath also has experience in full-stack web development.
+
+He uses modern web technologies to build user interfaces and deploy AI applications.
+
+Web Technologies:
+
+React.js
+Node.js
+Express.js
+HTML
+CSS
+JavaScript
+
+Databases
+
+Vaijeenath has experience working with database systems for storing and retrieving application data.
+
+Database Technologies:
+
+SQL databases
+Firebase Firestore
+
+Development Tools
+
+Tools used by Vaijeenath include:
+
+Streamlit for building AI application interfaces
+Git for version control
+GitHub for project collaboration and code hosting
+
+Internship Experience
+DS Optics – Graphics Designer
+
+Vaijeenath worked as a Graphics Designer intern at DS Optics.
+
+During this internship he designed marketing creatives and social media content for the company. He collaborated with marketing teams to maintain consistent brand identity and visual communication. His work helped improve social media engagement by approximately 30 percent.
+
+ASK Optics – Web Developer Intern
+
+Vaijeenath also worked as a Web Developer Intern at ASK Optics.
+
+During this internship he developed responsive web pages using HTML, CSS, and JavaScript. He also worked on improving website usability and performance by testing and debugging web components.
+
+Certifications
+
+Vaijeenath has completed several certifications in AI and software development including:
+
+Machine Learning, Deep Learning and NLP
+Generative AI and Large Language Models with LangChain
+Web Development Bootcamp from Udemy
+
+These certifications strengthened his knowledge in AI development and full-stack programming.
+
+Major AI Projects
+LLM Powered AI Assistant using LangChain
+
+The LLM Powered AI Assistant is a conversational AI system built using LangChain and large language models.
+
+This application allows users to interact with an AI chatbot capable of answering questions using contextual memory and document retrieval.
+
+Features of the AI Assistant:
+
+Prompt templates for structured prompting
+Conversation memory for maintaining context
+Retrieval-Augmented Generation pipelines
+Document loaders for reading custom files
+Vector-based semantic search
+Question answering over documents
+
+The application was deployed using Streamlit to provide an interactive web interface.
+
+Technologies used include Python, LangChain, vector databases, and LLM APIs.
+
+StudyForge AI – Student Productivity Platform
+
+StudyForge AI is a multi-tool AI assistant designed for students.
+
+It combines several AI capabilities in one application to help students with studying, research, coding, and resume preparation.
+
+Features include:
+
+AI chatbot assistant
+AI powered study notes generator
+Coding assistant for programming help
+Research assistant for structured information gathering
+ATS resume analyzer
+Learning assistant for explaining concepts
+
+This platform uses LangChain workflows and integrates LLM APIs such as OpenRouter and DeepSeek.
+
+The user interface is built using Streamlit.
+
+AI Chatbot Assistant
+
+The AI Chatbot Assistant is a conversational chatbot built using LangChain.
+
+It supports real-time conversations and uses conversational memory to maintain context across multiple messages.
+
+Features include:
+
+Conversation memory
+Prompt templates
+Large language model integration
+Real time AI interaction
+
+Technologies used include Python, LangChain, and Streamlit.
+
+ATS Resume Analyzer
+
+The ATS Resume Analyzer is an AI application that evaluates resumes and provides feedback.
+
+It uses large language models and Retrieval-Augmented Generation to analyze resumes.
+
+Features include:
+
+Resume parsing
+ATS compatibility analysis
+Skill evaluation
+Suggestions for improving resumes
+
+The system is built using Python, LangChain, RAG pipelines, and Streamlit.
+
+Smart Study Notes Generator
+
+The Smart Study Notes Generator is an AI tool that automatically generates structured study notes from any topic.
+
+It uses large language models to create summaries and quiz questions to help students learn faster.
+
+Features include:
+
+Topic summaries
+Bullet-point explanations
+Automatic quiz question generation
+
+Technologies used include LangGraph, LangChain, and LLM APIs.
+
+Skill Zeta – Skill Verification Platform
+
+Skill Zeta is a skill verification platform designed to verify user skills and certificates.
+
+It uses decentralized validation concepts inspired by blockchain systems.
+
+Features include:
+
+Skill verification
+Certificate validation
+Trust-based verification
+
+Technologies used include React and modern web development tools.
+
+Placement Preparation Portal
+
+The Placement Preparation Portal is a web platform that helps students prepare for job placements.
+
+Features include:
+
+Tracking company placement schedules
+Viewing recruitment opportunities
+Preparing for interviews
+
+The platform is built using the MERN stack including MongoDB, Express, React, and Node.js.
+
+AI Learning Projects
+
+Vaijeenath has also completed several deep learning projects to practice neural network architectures.
+
+These include:
+
+ANN based churn prediction model
+Bidirectional RNN for named entity recognition
+GRU model for spam detection
+LSTM model for next word prediction
+RNN model for IMDB sentiment analysis
+
+Datasets used include the Churn Modelling dataset, spam detection datasets, Hamlet text dataset, and IMDB movie review dataset.
+
+Natural Language Processing Projects
+
+Vaijeenath has implemented several NLP systems including:
+
+Bag of Words implementations
+Text cleaning pipelines
+Tokenization systems
+Stemming and lemmatization pipelines
+Word2Vec embedding models
+
+These projects helped him understand how textual data can be converted into machine learning features.
+
+Generative AI Experiments
+
+Vaijeenath has experimented with several advanced LangChain components including:
+
+Multi-agent AI systems
+Tool calling agents
+Zero-shot reasoning agents
+Python executor agents
+Conversational AI agents
+
+These experiments demonstrate how AI agents can perform complex tasks by interacting with tools and external data.
+
+RAG Systems
+
+Vaijeenath has implemented multiple Retrieval-Augmented Generation systems.
+
+These systems retrieve information from documents and use LLMs to generate contextual answers.
+
+Examples include:
+
+Text-based RAG systems
+PDF document RAG systems
+Vector database retrieval pipelines
+
+Components used in these systems include document loaders, embedding models, vector databases, retrievers, and language models.
+
+LangChain Components Used
+
+Vaijeenath has experimented with several LangChain features including:
+
+Prompt templates
+Output parsers
+JSON output parser
+Pydantic output parser
+String output parser
+
+He has also built different types of chains including conditional chains, parallel chains, sequential chains, and fallback chains.
+
+LLM Providers Used
+
+Vaijeenath has integrated multiple LLM providers including:
+
+Groq
+Google LLM APIs
+HuggingFace models
+DeepSeek
+OpenRouter
+
+Portfolio Website
+
+Vaijeenath Golhar has developed a personal portfolio website that showcases his skills, projects, certifications, and resume.
+
+The portfolio website includes sections for projects, skills, certificates, contact information, and professional background.
+
+Featured projects displayed on the website include:
+
+AI Chatbot Assistant
+ATS Resume Analyzer
+Smart Study Notes Generator
+StudyForge AI
+Placement Preparation Portal
+Skill Zeta Skill Verification Platform
+
+Career Goals
+
+Vaijeenath Golhar aims to become a professional AI engineer specializing in Generative AI technologies.
+
+His focus areas include:
+
+Large Language Models
+Retrieval-Augmented Generation systems
+AI agents and agentic workflows
+AI powered applications
+
+He aims to build scalable AI products that solve real-world problems.
+
+GitHub Repository
+
+Vaijeenath maintains a GitHub repository called Gen AI Journey.
+
+This repository contains his experiments and implementations in:
+
+Deep learning models
+Natural language processing pipelines
+LangChain applications
+LangGraph workflows
+Retrieval-Augmented Generation systems
+AI agents and prompt engineering experiments
+
+Key Technology Stack
+
+Programming: Python, JavaScript, C++
+AI/ML: TensorFlow, Scikit-learn
+Generative AI: LangChain, LangGraph
+Vector Databases: FAISS
+Frontend: React
+Backend: Node.js
+Deployment: Streamlit
+Version Control: GitHub
+
+AI Architecture Experience
+
+Vaijeenath has built several AI architectures including:
+
+Retrieval-Augmented Generation pipelines
+LLM chains for question answering
+Multi-agent AI workflows
+Prompt engineering pipelines
+Conversational AI systems with memory
+
+These architectures combine machine learning models, vector databases, and language models to create intelligent AI systems.
+
+End of Knowledge Base
