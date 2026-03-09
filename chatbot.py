@@ -19,20 +19,86 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("🤖 Ask Vaijeenath AI")
-st.caption("Ask anything about my projects, skills, and experience.")
+# ---------------- CUSTOM CSS ----------------
+
+st.markdown("""
+<style>
+
+/* Background */
+.stApp {
+    background-color: #0f172a;
+    color: white;
+}
+
+/* Center container */
+.block-container {
+    max-width: 900px;
+    padding-top: 2rem;
+}
+
+/* Header */
+.header {
+    text-align:center;
+    padding:20px;
+    background:linear-gradient(90deg,#6366f1,#9333ea);
+    border-radius:12px;
+    margin-bottom:25px;
+}
+
+.header h1 {
+    color:white;
+    margin-bottom:5px;
+}
+
+.header p {
+    color:#e0e7ff;
+}
+
+/* Chat bubbles */
+[data-testid="stChatMessage"] {
+    border-radius:10px;
+    padding:10px;
+}
+
+/* Example cards */
+.example-card {
+    background:#1e293b;
+    padding:12px;
+    border-radius:8px;
+    margin-bottom:8px;
+}
+
+/* Input box */
+.stChatInputContainer {
+    background-color:#1e293b;
+    border-radius:10px;
+}
+
+</style>
+""", unsafe_allow_html=True)
+
+# ---------------- HEADER ----------------
+
+st.markdown("""
+<div class="header">
+<h1>🤖 Ask Vaijeenath AI</h1>
+<p>Your AI assistant for exploring my projects, skills, and experience</p>
+</div>
+""", unsafe_allow_html=True)
 
 # ---------------- EXAMPLE QUESTIONS ----------------
 
-st.markdown("### Example Questions")
+st.markdown("### 💡 Example Questions")
 
-st.markdown("""
-- What projects has Vaijeenath Golhar built?
-- What technologies does he use?
-- Explain the StudyForge AI project
-- What skills does he have in AI?
-- What is his experience with RAG systems?
-""")
+col1, col2 = st.columns(2)
+
+with col1:
+    st.markdown('<div class="example-card">What projects has Vaijeenath Golhar built?</div>', unsafe_allow_html=True)
+    st.markdown('<div class="example-card">Explain the StudyForge AI project</div>', unsafe_allow_html=True)
+
+with col2:
+    st.markdown('<div class="example-card">What technologies does he use?</div>', unsafe_allow_html=True)
+    st.markdown('<div class="example-card">What is his experience with RAG systems?</div>', unsafe_allow_html=True)
 
 # ---------------- LOAD LLM ----------------
 
@@ -41,7 +107,7 @@ def load_llm():
     return ChatGroq(
         model="llama-3.3-70b-versatile",
         temperature=0,
-        groq_api_key=os.getenv("GROQ_API_KEY"),
+        groq_api_key=st.secrets["GROQ_API_KEY"],
         streaming=True
     )
 
@@ -92,7 +158,6 @@ def load_vector_db():
         db.save_local("faiss_index")
 
     return db
-
 
 vector_db = load_vector_db()
 
@@ -184,8 +249,8 @@ if question:
         {"role": "assistant", "content": response}
     )
 
-    # ---------------- SHOW SOURCES ----------------
+    # ---------------- SOURCES ----------------
 
-    with st.expander("Sources used"):
+    with st.expander("📚 Sources used"):
         for doc in docs:
             st.write(doc.page_content[:300])
